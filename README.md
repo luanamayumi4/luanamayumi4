@@ -1,7 +1,7 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**luanamayumi4/luanamayumi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = "https://github.com/luanamayumi4/free_images/blob/main/robot.jpg.avif"
+ width="500px"/>
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Obrigada por me visitar, fique à vontade para entrar em contato comigo em um dos contatos ao lado
