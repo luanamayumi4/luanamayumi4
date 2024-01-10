@@ -1,7 +1,9 @@
 ###  Tools and Technologies
 
 <img src = "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"
- width="100px"/>
+ width="80px"/> <img src = "https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"
+ width="80px"/>  <img src = "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"
+ width="80px"/>
 
 ### Hello, world! 🖖
 
