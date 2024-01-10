@@ -7,10 +7,10 @@
  width="70px"/>](https://docs.kernel.org/) [<img src = "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"
  width="70px"/>](https://code.visualstudio.com/docs) [<img src = "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"
  width="70px"/>](https://learn.microsoft.com/en-us/windows/) [<img src = "https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"
- width="70px"/>](https://www.postgresql.org/docs/) <img src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"
- width="70px"/> <img src = "https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png"
- width="70px"/> <img src = "https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"
- width="70px"/>
+ width="70px"/>](https://www.postgresql.org/docs/) [<img src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"
+ width="70px"/>](https://dev.mysql.com/doc/) [<img src = "https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png"
+ width="70px"/>](https://neo4j.com/docs/) [<img src = "https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"
+ width="70px"/>](https://www.mongodb.com/docs/)
 
 ### Hello, world! 🖖
 
