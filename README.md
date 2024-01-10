@@ -1,3 +1,8 @@
+###  Tools and Technologies
+
+<img src = "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"
+ width="100px"/>
+
 ### Hello, world! 🖖
 
 <img src = "https://github.com/luanamayumi4/free_images/blob/main/cute%20robot.jpg."
