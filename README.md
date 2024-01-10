@@ -3,7 +3,7 @@
 [<img src = "https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"
  width="70px"/>](https://docs.aws.amazon.com/) [<img src = "https://github.com/luanamayumi4/free_images/blob/main/splunk%20icon.png"
  width="70px"/>](https://docs.splunk.com/Documentation) [<img src = "https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"
- width="70px"/>[(https://docs.python.org/3/) [<img src = "https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"
+ width="70px"/>](https://docs.python.org/3/) [<img src = "https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"
  width="70px"/>](https://docs.kernel.org/) [<img src = "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"
  width="70px"/>](https://code.visualstudio.com/docs) [<img src = "https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"
  width="70px"/>](https://learn.microsoft.com/en-us/windows/) [<img src = "https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"
