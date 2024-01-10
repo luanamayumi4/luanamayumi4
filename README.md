@@ -26,6 +26,8 @@ PT | BR
 🚀 Minha formação em Big Data e participação em Hackatons (com aplicação de conceitos de Machine Learning e extração/análise de dados com uso Python e SQL) me trouxeram uma skill muito analítica para atuar na gestão de vulnerabilidades e ameaças, bem como proteção da marca e combate à fraudes 🚀
 
 
+
+
 EN | US
 
 🥰 It's a pleasure to have you here! You can calls me Lua
