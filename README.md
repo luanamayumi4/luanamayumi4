@@ -1,6 +1,6 @@
 ## 👋 Hello, world! | Olá, mundo! 🖖
 
-<img src="https://github.com/luanamayumi4/free_images/blob/main/cute%20robot.jpg" width="380px"/>
+<img src="https://github.com/luanamayumi4/free_images/blob/main/cute%20robot.jpg?raw=true" width="380px"/>
  
 ### 🇧🇷 PT-BR
 
@@ -61,5 +61,6 @@ I'm a **Lean Six Sigma Yellow Belt** and currently preparing for the **AWS Cloud
 
 ## 🤝🏻 Let’s connect
 
-🔗
+🔗 **LinkedIn:** https://www.linkedin.com/in/luana-mayumi/  
+✨ Obrigada pela visita!
 
