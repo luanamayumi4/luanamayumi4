@@ -1,7 +1,7 @@
 ## 👋 Hello, world! | Olá, mundo! 🖖
 
 <img src="https://github.com/luanamayumi4/free_images/blob/main/cute%20robot.jpg" width="380px"/>
-
+ 
 ### 🇧🇷 PT-BR
 
 Oi! Pode me chamar de **Lua** 😊  
