@@ -1,6 +1,6 @@
 ## 👋 Hello, world! | Olá, mundo! 🖖
 
-<img src="https://github.com/luanamayumi4/free_images/blob/main/cute%20robot.jpg?raw=true" width="380px"/>
+<img src="https://github.com/luanamayumi4/free_images/blob/main/cute%20robot.jpg." width="55px"/>
  
 ### 🇧🇷 PT-BR
 
